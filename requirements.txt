@@ -1,2 +1,2 @@
-Beautifulsoup4
-PyInstaller
+Beautifulsoup4==3.3.1
+PyInstaller==4.6.0
