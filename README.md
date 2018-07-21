@@ -7,4 +7,4 @@
 
 ## 使用
     可以使用pyinstaller 打包成exe使用
-    安装python环境直接运行亦可
+    或者安装python环境,直接运行亦可
