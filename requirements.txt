@@ -1,0 +1,2 @@
+Beautifulsoup4
+PyInstaller
